@@ -1,0 +1,8 @@
+# Deep dive: vendor “types”
+
+The evaluated vendors fall into three main categories, only one of which feels like a good match for the state UI agency's scenario: “General Appointment Scheduling,” which is also referred to as “Candidate” to reflect that match.
+
+1. **Healthcare appointment scheduling:** These ones tend to have rich feature sets and good UX for the actual scheduling mechanics -- but are not as applicable in other ways that the agency would need. E.g., they may have only medical-specific intake forms \(like uploading insurance information\), or they don’t have integrations with CRMs \(instead integrating with Electronic Health Record management systems\). Several of them were also more focused on queue management than the actual scheduling of appointments.
+2. **Small service-sector business appointments**: These vendors are targeting small businesses with a handful of employees for 1-1 or group appointments usually with a SPECIFIC individual. They also tend to offer a number of things that the agency wouldn’t use \(like social media integration, payments integration, and marketing features\), contributing to a higher price point than some of the other offerings.
+3. **General appointment scheduling:** These vendors are targeting organizations or even individuals across sectors. Their systems are generic enough to be useful in a lot of scenarios, including the UI agency's, and so in this paper are referred to as “Candidates.” Some of these vendors have solutions targeting state Departments of Motor Vehicles or the equivalent, which is a useful comparison scenario for these purposes.
+
