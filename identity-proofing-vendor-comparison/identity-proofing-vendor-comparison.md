@@ -6,7 +6,7 @@ description: >-
 
 # Identity proofing introduction
 
-{% file src="../.gitbook/assets/2020-12-11-usdr-identity-proofing.pdf" caption="PDF Download of Report" %}
+{% file src="../.gitbook/assets/usdr\_identity\_proofing\_2021-02-08.pdf" caption="Identity Proofing Download" %}
 
 Most existing fraud detection in unemployment insurance \(UI\) systems has been aimed at identifying the claimants who are trying to claim more in benefits than they are owed, e.g., by misrepresenting their wages. Detection relied on cross-referencing the claimant-supplied information with data from their former employer\(s\) with government databases like departments of motor vehicles or the Social Security Administration. If any discrepancies are found, manual intervention is required.
 
