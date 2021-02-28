@@ -53,3 +53,18 @@
     * [Best practices](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/best-practices.md)
     * [Known results](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/known-results.md)
 
+## UI Journey Map
+
+* [Introduction](ui-journey-map/introduction/README.md)
+  * [The Journey Map](ui-journey-map/introduction/the-journey-map.md)
+  * [Methods & Acknowledgements](ui-journey-map/introduction/methods-and-acknowledgements.md)
+* [The Claimant Journey](ui-journey-map/the-claimant-journey/README.md)
+  * [Know what I'm eligible for](ui-journey-map/the-claimant-journey/know-what-im-eligible-for.md)
+  * [Submit my information](ui-journey-map/the-claimant-journey/submit-my-information.md)
+  * [Certify Weekly](ui-journey-map/the-claimant-journey/certify-weekly.md)
+  * [Receive Payment](ui-journey-map/the-claimant-journey/receive-payment.md)
+  * [Know my claim status](ui-journey-map/the-claimant-journey/know-my-claim-status.md)
+  * [Receive Help](ui-journey-map/the-claimant-journey/receive-help.md)
+* [The Agency Journey](ui-journey-map/the-agency-journey.md)
+* [The Employer Journey](ui-journey-map/the-employer-journey.md)
+
