@@ -47,8 +47,7 @@ _Have something interesting for us to read?_ [_Let us know!_](mailto:ui-team@usd
     * Deploy a NIST IAL2-compliant identity proofing solution within the application process
     * For a period of time, delay new claims filed and redirect highest skilled staff to focus on processing claims
     * Complete deployment of mobile-friendly document upload solution
-* **Waiting for:**
-  * Nevada Strike Force - in progress \([Sept. 2020 update](https://thenevadaindependent.com/article/two-months-in-strike-force-says-its-making-progress-on-unemployment-claim-backlog-pegs-hope-on-assist-from-welfare-workers), [Nov. 2020 News interview](https://thenevadaindependent.com/article/indy-qa-what-has-unemployment-strike-force-accomplished-as-its-three-month-timeframe-ends)\)
+* **2021-01-28 --** [**Nevada DETR Rapid Response Strike Force Report**](https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf)\*\*\*\*
 
 
 
