@@ -7,7 +7,7 @@
   * Standard/PEUC UI management
   * PUA UI management
   * Re-employment services and support
-* **Some design basics**
+* **Some design basics:**
   * Don't call it "live" if it's a bot or virtual agent, either in the chat itself or in content that references it. This sets the wrong expectation for people and might lead them to be more likely to provide private information even if it is not appropriate for them to do so. 
   * The first message from the system should be short and to the point. Make sure that it is fully visible within the interface without the customer having to scroll. This means that the chat's "header" should be relatively narrow, and that there aren't large images or large blocks of text.
   * If content is split into multiple messages, then leave some time in between message sends for the person to at least register that there are multiple messages, if not fully read one message before the next one gets sent
