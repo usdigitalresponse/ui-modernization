@@ -13,7 +13,7 @@ As claimants go through the process from left to right, the UI agency does a lot
 
 This map is not intended to be a complete picture of the UI system; for example, it doesn’t capture how employers pay taxes into State UI Trust funds nor what happens if someone is found ineligible at any point. As our research continues, we expect to refine and expand this map over time.
 
-![](../../.gitbook/assets/screen-shot-2021-02-28-at-1.52.12-pm.png)
+![](../../../.gitbook/assets/screen-shot-2021-02-28-at-1.52.12-pm.png)
 
   
 
