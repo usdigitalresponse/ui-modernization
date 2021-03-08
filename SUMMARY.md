@@ -52,17 +52,17 @@
     * [Requirements](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/requirements.md)
     * [Best practices](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/best-practices.md)
     * [Known results](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/known-results.md)
-* [Employer Experience with UI](additional-deep-dives/employer-experience-with-ui.md)
+* [Employer Experience with UI](additional-deep-dives/employer-experience-with-ui/README.md)
+  * [Landscape of the Employer Experience: User Interviews](additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews/README.md)
+    * [Methodology](additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews/methodology.md)
+    * [Key Takeaways](additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews/key-takeaways.md)
+  * [Opportunities of the Digital UI Agency/Employer Interactions: User Interviews](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews.md)
 
 ## UI Journey Map
 
-* [Landscape of the Employer Experience: User Interviews](ui-journey-map/landscape-of-the-employer-experience-user-interviews.md)
 * [Introduction](ui-journey-map/introduction/README.md)
-  * [Methodology](ui-journey-map/introduction/methodology.md)
-  * [The Journey Map](ui-journey-map/introduction/the-journey-map/README.md)
-    * [Key Takeaways](ui-journey-map/introduction/the-journey-map/key-takeaways.md)
+  * [The Journey Map](ui-journey-map/introduction/the-journey-map.md)
   * [Methods & Acknowledgements](ui-journey-map/introduction/methods-and-acknowledgements.md)
-  * [Opportunities of the Digital UI Agency/Employer Interactions: User Interviews](ui-journey-map/introduction/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews.md)
 * [The Claimant Journey](ui-journey-map/the-claimant-journey/README.md)
   * [Know what I'm eligible for](ui-journey-map/the-claimant-journey/know-what-im-eligible-for.md)
   * [Submit my information](ui-journey-map/the-claimant-journey/submit-my-information.md)
