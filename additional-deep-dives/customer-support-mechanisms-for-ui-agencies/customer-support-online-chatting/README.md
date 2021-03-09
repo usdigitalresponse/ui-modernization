@@ -2,7 +2,7 @@
 description: 'Updated: Dec. 22, 2020'
 ---
 
-# Online chatting
+# Chatbots
 
 ## Introduction
 
