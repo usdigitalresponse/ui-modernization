@@ -2,6 +2,10 @@
 
 For each of the evaluated vendors, we have done our best to provide accurate information through a combination of research and conversations with company representatives. This section of the document summarizes some of the more important vendor differences to inform your decision making. For all the details, see the appendices:
 
+{% page-ref page="../appendix-i-vendor-evaluation-of-key-considerations.md" %}
+
+{% page-ref page="../appendix-ii-vendor-evaluation-of-supplemental-considerations.md" %}
+
 _If you are a representative of an identity proofing or fraud detection company and are not included in our list, or believe we have mischaracterized your product\(s\) or left out key information, please reach out to_ [_ui-team@usdigitalresponse.org_](mailto:ui-team@usdigitalresponse.org) _so we can follow up for inclusion and/or clarification as appropriate._
 
 ### Vendor overview
@@ -142,8 +146,6 @@ As we evaluate these and/or other vendors, their information will be added to th
 #### A federal alternative: Login.gov
 
 There is an identity proofing vendor that falls outside of the scope of this document, but that is likely to be of interest to readers: [Login.gov](https://www.login.gov/), provided by the federal government. The single-sign-on service was launched by the General Service Administration in 2017, providing two-factor authentication, fraud detection, and Identity Assurance Level 2 \(IAL2\) under [NIST-800-63A](https://pages.nist.gov/800-63-3/sp800-63a.html). It was initially available only to federal agencies, with a FedRAMP Moderate ATO, [with customers including](https://login.gov/partners/our-agency-partners/) the Department of Defense, the Department of Homeland Security, the Department of Energy, and the Department of Transportation. At the end of 2020 they were granted permission by the White House Office of Management and Budget to accept state agencies as customers.
-
-
 
 Login.gov is not a drop-in identity proofing vendor. They perform identity proofing, but only as a component of a user registration process within Login.gov. For employment agencies to use Login.gov for identity proofing, they need to replace their entire authentication flow with Login.gov, [integrating it via OAuth 2.0 or SAML](https://developers.login.gov/).
 

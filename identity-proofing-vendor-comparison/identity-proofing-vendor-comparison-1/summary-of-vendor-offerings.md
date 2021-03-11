@@ -1,7 +1,5 @@
 # Summary of vendor offerings
 
-
-
 * **Alloy** is the most configurable of the vendors; they have partnerships with many other vendors that provide a wide variety of identity verification methods that can be used in combination with each other. Their partners include most of the vendors evaluated in this report: Cognito, Ekata, IDology, SentiLink, and Socure. We do not have information on their pricing.
 * **Cognito’s** identity proofing focuses on basic PII: Name, phone, address, and SSN. Their unique offering is through using synthetic identity detection to confirm the validity of a Name / Phone number combo, and then using 2FA to confirm that the person is still in possession of that phone number. \(Additional KBV is an add-on for further detection of stolen identities.\) With this reliance on 2FA, their product isn’t as suitable for managing the applicant backlog without needing the applicants to take some action. 
 * **Ekata** specializes in confirming “dynamic PII” -- Name, phone, address, and email. By also looking at passively-collected information \(e.g., IP address and phone metadata\), they are able to detect stolen as well as synthetic identities. They do not have a batch way to process the applicant backlog without needing the applicants to re-enter this basic PII. They do have a dashboard where you can see the results of an individual’s ID proofing process.

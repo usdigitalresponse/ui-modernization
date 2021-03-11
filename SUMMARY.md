@@ -42,7 +42,6 @@
     * [Deep dive: pricing](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/online-appointment-scheduling/deep-dive-pricing.md)
     * [Recommendations by category](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/online-appointment-scheduling/recommendations-by-category.md)
   * [Chatbots](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/README.md)
-    * [Summary](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/summary.md)
     * [Methodology](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/methodology.md)
     * [Types of online chat](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/types-of-online-chat.md)
     * [Live chat](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/customer-support-online-chatting/live-chat.md)
