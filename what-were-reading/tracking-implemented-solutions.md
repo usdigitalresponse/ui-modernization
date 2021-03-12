@@ -14,7 +14,7 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left">Identity Proofing (updated: 1/21/21)</th>
+      <th style="text-align:left">Identity Proofing (updated: 3/11/21)</th>
       <th style="text-align:left">Chatbot (updated: 12/22/20)</th>
       <th style="text-align:left">Appt/call scheduler (updated: 1/21/21)</th>
       <th style="text-align:left">Online repayments (updated: 11/25/20)</th>
@@ -386,7 +386,10 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">Ohio</td>
-      <td style="text-align:left">Experian, likely starting in May with launch of new site (<a href="https://spectrumnews1.com/oh/columbus/news/2020/05/12/pandemic-unemployment-site-launched">article</a>)</td>
+      <td style="text-align:left">- Experian, likely starting in May &apos;20 with launch of new PUA site
+        (<a href="https://spectrumnews1.com/oh/columbus/news/2020/05/12/pandemic-unemployment-site-launched">article</a>)
+        <br
+        />- Experian and LexisNexis for PUA &amp; UI (Feb/Mar &apos;21, <a href="http://experian/LexisNexis%20for%20PUA%20and%20UI%20in%20Feb/March%202021">article</a>)</td>
       <td
       style="text-align:left"><a href="http://unemployment.cmt.ohio.gov/">Yes</a> - SalesForce<a href="http://unemploymenthelp.ohio.gov/"><br /></a>
         <a
