@@ -57,7 +57,7 @@
     * [Key Takeaways](additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews/key-takeaways.md)
   * [Opportunities of the Digital UI Agency/Employer Interactions: User Interviews](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews.md)
 
-## UI Journey Map
+## UI Journey Map & Recommendations <a id="ui-journey-map"></a>
 
 * [Introduction](ui-journey-map/introduction/README.md)
   * [The Journey Map](ui-journey-map/introduction/the-journey-map.md)
@@ -69,6 +69,12 @@
   * [Receive Payment](ui-journey-map/the-claimant-journey/receive-payment.md)
   * [Know my claim status](ui-journey-map/the-claimant-journey/know-my-claim-status.md)
   * [Receive Help](ui-journey-map/the-claimant-journey/receive-help.md)
-* [The Agency Journey](ui-journey-map/the-agency-journey.md)
+* [The Agency Journey](ui-journey-map/the-agency-journey/README.md)
+  * [Validate Identity](ui-journey-map/the-agency-journey/validate-identity.md)
+  * [Validate Monetary Eligibility](ui-journey-map/the-agency-journey/validate-monetary-eligibility.md)
+  * [Interacting with Employers](ui-journey-map/the-agency-journey/interacting-with-employers.md)
+  * [Fact Finding](ui-journey-map/the-agency-journey/fact-finding.md)
+  * [Update systems for new programs](ui-journey-map/the-agency-journey/update-systems-for-new-programs.md)
+  * [Relationship with US DOL](ui-journey-map/the-agency-journey/relationship-with-us-dol.md)
 * [The Employer Journey](ui-journey-map/the-employer-journey.md)
 

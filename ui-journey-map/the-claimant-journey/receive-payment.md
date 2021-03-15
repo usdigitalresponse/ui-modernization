@@ -14,7 +14,7 @@ Many states limit how funds can be received, including only providing benefits v
 
 ### Recommendation:
 
-* Arizona, California, Maryland, Nevada, and Oklahoma should enable direct deposits of UI benefits without having to mail in a voided check or first get a debit card.
+1. Arizona, California, Maryland, Nevada, and Oklahoma should enable direct deposits of UI benefits without having to mail in a voided check or first get a debit card.
 
 ## Challenge \#2: Benefits may be stolen if a claimant’s user account is compromised
 
@@ -27,5 +27,5 @@ Claimants UI system accounts can be hacked and their bank account info changed s
 
 ### Recommendation: 
 
-1. Assume that bank account changes are hostile actions and require authentication beyond simply logging into the account. Be clear with the claimant about what is happening at that time and how to confirm legitimate changes.
+1. Agencies should assume that bank account changes are hostile actions and require authentication beyond simply logging into the account. Be clear with the claimant about what is happening at that time and how to confirm legitimate changes.
 

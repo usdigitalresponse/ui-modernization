@@ -8,10 +8,10 @@ Current UI systems are not designed to simplify the claimant’s experience. App
 
 ### Recommendations
 
-1. Use [plain language](https://www.plainlanguage.gov/) in the tools to help claimants better understand what is expected of them. 
-2. Explain the outcome of actions that the claimant takes or of answers they provide. 
-3. When additional information is needed, be very clear about what that information is and why it is needed. Uploading attachments should be available to claimants in the context of a targeted request for information from the agency, or as part of an issue creation/appeals workflow that the claimant initiates.
-4. From “[Centering Workers - How to Modernize Unemployment Insurance Technology](https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/)”: 
+1. Agencies should use [plain language](https://www.plainlanguage.gov/) in the tools to help claimants better understand what is expected of them. US DOL should provide plain language guidance for common scenarios that States can use.
+2. Agencies should explain the outcome of actions that the claimant takes or of answers they provide. 
+3. When additional information is needed, agencies should be very clear about what that information is and why it is needed. Uploading attachments should be available to claimants in the context of a targeted request for information from the agency, or as part of an issue creation/appeals workflow that the claimant initiates.
+4. From “[Centering Workers - How to Modernize Unemployment Insurance Technology](https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/)”, agencies should update their applications according to the following: 
    1. Create a substantive, accessible claimant portal. 
    2. Go for a professional look.
    3. Make your website mobile-optimized. 
@@ -31,7 +31,7 @@ Some systems were not built for increased web traffic load. This has resulted in
 
 ### Recommendation:
 
-1. Put in place scaling plans and determine what will change in the system when there are large spikes in traffic. Take into account DDOS attacks as well as bot traffic. 
+1. Agencies should pt in place scaling plans and determine what will change in the system when there are large spikes in traffic. Take into account DDOS attacks as well as bot traffic. 
 
 ## Challenge \#3: Websites aren’t designed for the people who need it 
 
@@ -43,10 +43,10 @@ Not everyone has access or sufficient digital skills to use the website.
 
 ### Recommendations: 
 
-1. Create a process for phone applications and certifications and make sure that a phone line is available specifically for that purpose. This phone line should be separate from getting help with online applications or handling existing application or status issues. 
-2. Maintain a process for handling paper applications. 
-3. When possible to do safely, in-person “pop up” offices in targeted locations can help provide assistance. Think through the time commitment and resource constraints before setting expectations with the public.  
-4. Enable claimants to schedule phone callback appointments to preemptively avoid long hold times.
+1. Agencies should create a process for phone applications and certifications and make sure that a phone line is available specifically for that purpose. This phone line should be separate from getting help with online applications or handling existing application or status issues. 
+2. Agencies should maintain a process for handling paper applications. 
+3. When possible to do safely, agencies should consider in-person “pop up” offices in targeted locations can help provide assistance. Think through the time commitment and resource constraints before setting expectations with the public.  
+4. Agency websites should eable claimants to schedule phone callback appointments to preemptively avoid long hold times.
 
 ## Challenge \#4: Unclear expectations about next steps
 
@@ -59,6 +59,6 @@ Unlike most of the online interactions people have, UI systems frequently aren�
 
 ### Recommendations: 
 
-1. Where possible, seamlessly transition users in between processes. \(E.g., if someone’s application is flagged immediately upon submission because more information is needed about their self-employment, go directly from that submission to a form/questionnaire.\) 
-2. When information is submitted, let claimants know what will happen next and when they should expect to hear back.
+1. Where possible, agency sites should seamlessly transition users in between processes. \(E.g., if someone’s application is flagged immediately upon submission because more information is needed about their self-employment, go directly from that submission to a form/questionnaire.\) 
+2. When information is submitted, agencies should let claimants know what will happen next and when they should expect to hear back.
 

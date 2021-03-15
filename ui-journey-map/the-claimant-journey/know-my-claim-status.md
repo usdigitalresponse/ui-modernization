@@ -28,10 +28,9 @@ The language used to convey application status is often meaningless to claimants
 
 ### Recommendations: 
 
-1. Communicate in [plain language](https://www.plainlanguage.gov/) what the status is; statuses should be descriptive yet concise. 
-2. Statuses should be contextualized within the whole process, e.g. a progress bar. 
-3. Statuses should also include the following supporting information: 
-   * Any decisions that have been made, and ideally the ability to begin an appeals process on that decision from that point.
-   * What issue\(s\) are set on the claim, as well as what \(if anything\) is needed from the claimant; claimants shouldn’t be left wondering if they’ve missed a communication. 
-   * What benefits have been disbursed, if any.
+1. Agencies should communicate in [plain language](https://www.plainlanguage.gov/) what the status is; statuses should be descriptive yet concise. US DOL should provide guidance that all agencies should use.
+2. Agencies should ensure that their claim and payment statuses are contextualized within the whole process, e.g. a progress bar. Statuses should also include the following supporting information: 
+   1. Any decisions that have been made, and ideally the ability to begin an appeals process on that decision from that point.
+   2. What issue\(s\) are set on the claim, as well as what \(if anything\) is needed from the claimant; claimants shouldn’t be left wondering if they’ve missed a communication. 
+   3. What payments have been disbursed, if any.
 

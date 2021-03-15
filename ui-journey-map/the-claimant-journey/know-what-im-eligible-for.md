@@ -18,10 +18,10 @@ People were getting information about these programs from the news, from their f
 
 ### Recommendations: 
 
-1. Use [plain language](https://www.plainlanguage.gov/) when explaining programs and eligibility. 
-2. If there are multiple programs that someone might be eligible for, ideally implement a [benefits eligibility screening tool](https://getstarted.nj.gov/labor/), but at the very least provide an [eligibility checklist](https://esdorchardstorage.blob.core.windows.net/esdwa/Default/ESDWAGOV/Unemployment/UIEligibilityChecker.pdf), or [eligibility FAQ page](https://labor.alaska.gov/unemployment/COVID-19.htm) to help guide claimants to the right program\(s\). 
-3. Make it clear that the benefit is taxable and provide an opportunity to withhold that amount \(if state law doesn’t permit withholding, that should change\). If the claimant chooses not to withhold, the implications of not doing so should be clear.
-4. UI agencies should perform usability studies on how people are informed of their \(in\)eligibility determinations to understand what specific communications should be streamlined and/or re-written. Communicate benefits receipt as a clear approve/deny in a single letter, with additional information about benefit amount or reason\(s\) for not qualifying for any benefits.
+1. Agencies should se [plain language](https://www.plainlanguage.gov/) when explaining programs and eligibility. 
+2. When there are multiple programs that someone might be eligible for, agencies should ideally implement a [benefits eligibility screening tool](https://getstarted.nj.gov/labor/), but at the very least provide an [eligibility checklist](https://esdorchardstorage.blob.core.windows.net/esdwa/Default/ESDWAGOV/Unemployment/UIEligibilityChecker.pdf), or [eligibility FAQ page](https://labor.alaska.gov/unemployment/COVID-19.htm) to help guide claimants to the right program\(s\). 
+3. Agencies should make it clear that the benefit is taxable and provide an opportunity to withhold that amount \(if state law doesn’t permit withholding, that should change in partnership with the state legislature\). If the claimant chooses not to withhold, the implications of not doing so should be clear in the application.
+4. Agencies should perform usability studies on how people are informed of their \(in\)eligibility determinations to understand what specific communications should be streamlined and/or re-written. Communicate benefits receipt as a clear approve/deny in a single letter, with additional information about benefit amount or reason\(s\) for not qualifying for any benefits.
 
 ## Challenge \#2: Implementation of PUA was confusing
 
@@ -35,9 +35,9 @@ The impact is an unknown decrease in benefits participation rate, which resulted
 
 ### Recommendations: 
 
-1. If there are programs whose eligibility depends on not qualifying for other programs, application information should be sent from one to the other so that claimants don’t need to re-enter information they’ve already provided.
-2. If it is going to take any amount of time to determine whether they are eligible for the first program, communicate this clearly and let them know what to expect. 
-3. If someone is found to be ineligible for the first program, use the information already obtained to determine whether they might be eligible for the second program and help them through that process. Do not rely on them knowing that they need to apply for something else.
+1. Agencies should connect applications when possible: If there are programs whose eligibility depends on not qualifying for other programs, application information should be sent from one to the other so that claimants don’t need to re-enter information they’ve already provided.
+2. If it is going to take any amount of time to determine whether they are eligible for the first program, agencies should communicate this clearly and let them know what to expect. 
+3. If someone is found to be ineligible for the first program, agencies should use the information already obtained to determine whether they might be eligible for the second program and help them through that process. Do not rely on them knowing that they need to apply for something else.
 
 ## Challenge \#3: Lead time for new projects is often longer than the public expects
 
@@ -50,7 +50,7 @@ New programs take time to establish and they can be difficult for state agencies
 
 ### Recommendations: 
 
-1. States should be consulted when any federal timelines are established to ensure that there is a reasonable implementation period. US DOL should help states in communicating the implementation timeline, especially if the legislation did not provide sufficient time.
-2. UI agencies should be as clear as possible about when the program will be operational; communicate changes to that timeline as they happen. Remain empathetic about what the claimants might be experiencing as they await aid.
+1. US DOL should consult with states when any federal timelines are established to ensure that there is a reasonable implementation period. US DOL should help states in communicating the implementation timeline, especially if the legislation did not provide sufficient time.
+2. Agencies should be as clear as possible about when the program will be operational; communicate changes to that timeline as they happen. Remain empathetic about what the claimants might be experiencing as they await aid.
 3. US DOL should engage with states in a user-centered policy making process to understand the challenges with implementing new programs during crisis. That information should then be used to inform emergency legislation in future crises, as well as grant programs for UI agencies to prepare for recession-era programs ahead of time.
 
