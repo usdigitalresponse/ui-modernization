@@ -4,5 +4,7 @@ Unemployment insurance \(UI\) is a deeply complex political, legal, social, and 
 
 This report summarizes some of those challenges within the journey map framework, and provides recommendations for how states, the US Department of Labor, and other key actors could increase the effectiveness and efficiency of UI administration. 
 
-![](../../.gitbook/assets/screen-shot-2021-02-28-at-1.52.12-pm.png)
+![Diagram of key tasks done by claimant, agency, and employer over the course of a UI claim \(and how they interact with other government entities\)](../../.gitbook/assets/screen-shot-2021-04-17-at-12.39.36-pm.png)
+
+
 
