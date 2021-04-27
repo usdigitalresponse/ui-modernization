@@ -55,7 +55,9 @@
   * [Landscape of the Employer Experience: User Interviews](additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews/README.md)
     * [Methodology](additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews/methodology.md)
     * [Key Takeaways](additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews/key-takeaways.md)
-  * [Opportunities of the Digital UI Agency/Employer Interactions: User Interviews](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews.md)
+  * [Employer Experience: Digital Interactions](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews/README.md)
+    * [Methodology & Note on Language](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews/methodology-and-note-on-language.md)
+    * [Key Takeaways](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews/key-takeaways.md)
 
 ## UI Journey Map & Recommendations <a id="ui-journey-map"></a>
 

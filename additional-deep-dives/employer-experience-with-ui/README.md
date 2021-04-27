@@ -12,7 +12,7 @@ In this area, we have thus far conducted one qualitative user research study and
 
 {% page-ref page="landscape-of-the-employer-experience-user-interviews/" %}
 
-{% page-ref page="opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews.md" %}
+{% page-ref page="opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews/" %}
 
 
 
