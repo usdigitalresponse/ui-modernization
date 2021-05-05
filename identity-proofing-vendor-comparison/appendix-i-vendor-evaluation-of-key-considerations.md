@@ -66,6 +66,19 @@ For some of the vendors, the answer is “unknown,” and we continue working to
         <td style="text-align:left">- UX for PII collection and doc verification</td>
     </tr>
     <tr>
+      <td style="text-align:left">Idemia</td>
+      <td style="text-align:left">$2.50 to $5.50 / verification</td>
+      <td style="text-align:left">
+        <p>Step-up process:</p>
+        <p>- API for PII collection</p>
+        <p>- UX for doc verification</p>
+      </td>
+      <td style="text-align:left">
+        <p>- Has batch API to check PII</p>
+        <p>- UX for doc verification</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">IDology</td>
       <td style="text-align:left">Unknown</td>
       <td style="text-align:left">
@@ -152,6 +165,12 @@ For some of the vendors, the answer is “unknown,” and we continue working to
       <td style="text-align:left">Synthetic identity detection, document verification, biometric verification</td>
       <td
       style="text-align:left">Credit bureaus, SSA Death Master File, telco records, public data sources</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Idemia</td>
+      <td style="text-align:left">Idemia Proof: Synthetic identity detection, document verification, biometric
+        verification</td>
+      <td style="text-align:left">Credit file info; DMV database; &quot;Systems of record&quot;</td>
     </tr>
     <tr>
       <td style="text-align:left">IDology</td>

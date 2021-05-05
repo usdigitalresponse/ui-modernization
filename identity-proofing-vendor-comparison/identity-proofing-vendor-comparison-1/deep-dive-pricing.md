@@ -16,7 +16,8 @@ Below are the results of calculating average cost per query \(i.e., cost per new
 | **Cognito** | $0.56 | $0.94 |
 | **Ekata** | $0.10 | $0.25 |
 | **Experian** | $0.11 | $0.28 |
-| **ID.me**  | $3.96 | $3.40 |
+| **ID.me**  | $3.40 | $3.96 |
+| **Idemia** | $2.00 | $5.23 |
 | **SentiLink** | $0.12 | $0.43 |
 | **Socure** | $0.09 | $0.29 |
 

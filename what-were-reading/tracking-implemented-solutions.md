@@ -217,15 +217,16 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">Louisiana</td>
-      <td style="text-align:left">None found (DMV presumed)</td>
-      <td style="text-align:left">No</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="http://www2.laworks.net/FAQs/FAQ_UI_ClaimantBenefits.asp#answer_14">no</a>
-      </td>
+      <td style="text-align:left">ID.me May &apos;21 (<a href="https://www.katc.com/news/covering-louisiana/lwc-partnering-with-id-me-to-combat-unemployment-id-theft">article</a>)</td>
+      <td
+      style="text-align:left">No</td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"><a href="http://www2.laworks.net/FAQs/FAQ_UI_ClaimantBenefits.asp#answer_14">no</a>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">Maine</td>
-      <td style="text-align:left">None found (SSA presumed)</td>
+      <td style="text-align:left">ID.me</td>
       <td style="text-align:left"><a href="https://www.maine.gov/unemployment/">Yes</a> - Google Chat bot,
         sometime between mid June and October</td>
       <td style="text-align:left"></td>
@@ -242,7 +243,7 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">Massachusetts</td>
-      <td style="text-align:left">None found (SSA presumed)</td>
+      <td style="text-align:left">ID.me</td>
       <td style="text-align:left"><a href="https://ui-cares-act.mass.gov/PUA">Yes</a> - not sure</td>
       <td
       style="text-align:left"></td>
@@ -272,7 +273,7 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">Mississippi</td>
-      <td style="text-align:left">None found (SSA presumed)</td>
+      <td style="text-align:left">ID.me</td>
       <td style="text-align:left">No</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://www.mdes.ms.gov/unemployment-claims/benefit-information/overpayments/">no</a>
@@ -280,7 +281,7 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">Missouri</td>
-      <td style="text-align:left">None found (SSA presumed)</td>
+      <td style="text-align:left">ID.me</td>
       <td style="text-align:left"><a href="https://info.mo.gov/labor/chatbot/">Yes</a> - MSFT BotFramework/WebChat,
         implemented <a href="https://labor.mo.gov/news/press-releases/missouri-launches-virtual-assistant-unemployment-questions-issues-600-federal">in April</a>
       </td>
@@ -330,14 +331,16 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">New Jersey</td>
-      <td style="text-align:left">Use public records (<a href="https://www.myunemployment.nj.gov/before/about/identity/">site</a>),
-        beginning in 2012 (<a href="https://www.myunemployment.nj.gov/before/about/identity/">article</a>)</td>
+      <td style="text-align:left">
+        <p>-Use public records (<a href="https://www.myunemployment.nj.gov/before/about/identity/">site</a>),
+          beginning in 2012 (<a href="https://www.myunemployment.nj.gov/before/about/identity/">article</a>)</p>
+        <p>-ID.me</p>
+      </td>
+      <td style="text-align:left"><a href="https://www.myunemployment.nj.gov/">Yes</a> - Google Chat Bot</td>
       <td
-      style="text-align:left"><a href="https://www.myunemployment.nj.gov/">Yes</a> - Google Chat Bot</td>
-        <td
-        style="text-align:left"></td>
-          <td style="text-align:left"><a href="https://www1.state.nj.us/TYTR_LBR_Claims/jsp/Login.jsp">yes</a>
-          </td>
+      style="text-align:left"></td>
+        <td style="text-align:left"><a href="https://www1.state.nj.us/TYTR_LBR_Claims/jsp/Login.jsp">yes</a>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">New Mexico</td>
@@ -350,7 +353,7 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">New York</td>
-      <td style="text-align:left">None found (DMV presumed)</td>
+      <td style="text-align:left">ID.me</td>
       <td style="text-align:left"><a href="https://dol.ny.gov/">Yes</a> - Astute Bot</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"><a href="https://labor.ny.gov/ui/claimantinfo/overpayments-penalties-faq.shtm#21">no</a>
@@ -408,6 +411,13 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
           <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Oregon</td>
+      <td style="text-align:left">ID.me</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Pennsylvania</td>
       <td style="text-align:left"><a href="http://id.me/">ID.me</a> implemented in Oct. 2020 (<a href="https://www.media.pa.gov/Pages/Labor-and-Industry-Details.aspx?newsid=496">Press Release</a>)</td>
       <td
@@ -427,7 +437,7 @@ If you see something that is out of date, [please reach out](mailto:ui-team@usdi
     </tr>
     <tr>
       <td style="text-align:left">South Carolina</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">ID.me</td>
       <td style="text-align:left"><a href="https://uitax.dew.sc.gov/Chatbot/">Yes</a> - MSFT BotFramework/WebChat</td>
       <td
       style="text-align:left">no</td>

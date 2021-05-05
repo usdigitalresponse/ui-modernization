@@ -81,11 +81,23 @@ _If you are a representative of an identity proofing or fraud detection company 
         </p>
         <p><a href="https://id.me">https://id.me</a> 
         </p>
-        <p>12/2/2020</p>
+        <p>5/4/2021</p>
       </td>
       <td style="text-align:left">McLean, VA</td>
       <td style="text-align:left">2010</td>
       <td style="text-align:left">Government partners, retail, online healthcare</td>
+      <td style="text-align:left">Identity records</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Idemia</b>
+        </p>
+        <p>https://www.idemia.com</p>
+        <p>5/4/2021</p>
+      </td>
+      <td style="text-align:left">France</td>
+      <td style="text-align:left">2007</td>
+      <td style="text-align:left">Government partners</td>
       <td style="text-align:left">Identity records</td>
     </tr>
     <tr>

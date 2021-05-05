@@ -28,14 +28,14 @@ Note: as none of the evaluated vendors are under a recognized socioeconomic prog
       <td style="text-align:left">Cognito</td>
       <td style="text-align:left">Brex, Nextdoor, Coinbase, BBVA</td>
       <td style="text-align:left">None</td>
-      <td style="text-align:left">SOC2 Type 2 Certification</td>
+      <td style="text-align:left">SOC2 Type 2 Compliance</td>
       <td style="text-align:left">No</td>
     </tr>
     <tr>
       <td style="text-align:left">Ekata</td>
       <td style="text-align:left">Lyft, Alaska Airlines</td>
       <td style="text-align:left">None</td>
-      <td style="text-align:left">SOC2 Type 2 Certification</td>
+      <td style="text-align:left">SOC2 Type 2 Compliance</td>
       <td style="text-align:left">No</td>
     </tr>
     <tr>
@@ -49,10 +49,22 @@ Note: as none of the evaluated vendors are under a recognized socioeconomic prog
     <tr>
       <td style="text-align:left">ID.me</td>
       <td style="text-align:left">LinkedIn, Lenovo</td>
-      <td style="text-align:left"><a href="http://vets.gov/">Vets.gov</a>, 9 state UI agencies</td>
-      <td style="text-align:left">NIST 800-63-3 IAL2/AAL2; in process of FedRamp authorization</td>
-      <td style="text-align:left">Have a growing government business line, but do not promote availability
-        on any found schedule</td>
+      <td style="text-align:left"><a href="http://vets.gov/">Vets.gov</a>, 22 state UI agencies</td>
+      <td
+      style="text-align:left">NIST 800-63-3 IAL2/AAL2; in process of FedRamp authorization</td>
+        <td style="text-align:left">Have a growing government business line, but do not promote availability
+          on any found schedule</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Idemia</td>
+      <td style="text-align:left">n/a</td>
+      <td style="text-align:left">TSA, USPS, US Dept. of State, 37 state DMVs, 1 state UI agency (Okla.)</td>
+      <td
+      style="text-align:left">
+        <p>-In process for NIST IAL2</p>
+        <p>-IEC CD 18013-5 Compliance</p>
+        </td>
+        <td style="text-align:left">GSA</td>
     </tr>
     <tr>
       <td style="text-align:left">IDology</td>
@@ -66,7 +78,7 @@ Note: as none of the evaluated vendors are under a recognized socioeconomic prog
       <td style="text-align:left">Several of the largest banks, credit card issuers, credit unions, and
         auto lenders</td>
       <td style="text-align:left">With at least one state&#x2019;s PPP</td>
-      <td style="text-align:left">SOC2 Type 2 Certification, PCI Compliance, EI3PA Compl.</td>
+      <td style="text-align:left">SOC2 Type 2 Compliance, PCI Compl., EI3PA Compl.</td>
       <td style="text-align:left">Unknown</td>
     </tr>
     <tr>
@@ -76,7 +88,7 @@ Note: as none of the evaluated vendors are under a recognized socioeconomic prog
       <td style="text-align:left">Unknown</td>
       <td style="text-align:left">
         <p>-In processes for FedRamp authorization &amp; NIST IAL2</p>
-        <p>-SOC2 Type 2 Certification
+        <p>-SOC2 Type 2 Compliance
           <br />- ISO 27001/ 27017/27018</p>
         <p></p>
       </td>

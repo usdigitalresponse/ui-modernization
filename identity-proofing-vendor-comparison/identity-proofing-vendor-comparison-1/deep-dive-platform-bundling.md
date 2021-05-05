@@ -2,7 +2,7 @@
 
 
 
-Alloy and Experian are different from the other vendors in that they explicitly and transparently leverage other companies’ technology as identity proofing platforms. Both take information that others have already interpreted and use that as an input to their own risk interpretation. 
+Alloy and Experian are different from the other vendors in that they explicitly and transparently leverage other companies’ technology as identity proofing platforms. Both take information that others have already interpreted and use that as an input to their own risk interpretation. Additionally, Idemia itself uses Experian.
 
 Alloy has a platform that can combine multiple risk assessments about the same piece of data. For example, Alloy can interpret in parallel the fraud risk data sent by both SentiLink and Ekata about a particular Name + Address combination. Alloy has agreements with more than 65 partners in total that can be mixed and matched when setting up an identity proofing system. This immense flexibility \(and overlap with the vendors evaluated in this paper\) and the fact that no pricing information was made available make it hard to come to any conclusion about Alloy.
 

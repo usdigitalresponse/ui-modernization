@@ -7,12 +7,18 @@ The following vendors provide document verification:
 * Alloy
 * Experian
 * ID.me
+* Idemia \(via Experian Precise ID\)
 * IDology
 * Socure 
 
-All of these vendors’ documentation verification products combine it with a biometric verification step. The biometric verification is in the form of a selfie that gets checked for “liveness” \(i.e., to check whether someone else’s existing photo was uploaded\) as well as compared against the provided photo ID.
+All of these vendors’ documentation verification products combine it with a biometric verification step. The biometric verification is in the form of a selfie that gets checked for “liveness” \(i.e., to check whether someone else’s existing photo was uploaded\) as well as compared against the provided photo ID. 
 
-ID.me’s document + biometric verification is built into their primary product offering. They take doc + bio verification a step further than any of the other companies with a remote “in-person” identity proofing interview: a video call in which an applicant must present their documents live. This happens only for the set of people who cannot be verified at other steps in their process. \(You can also get their document verification and/or doc + bio verification products individually, but we don’t have information about the pricing.\)
+ID.me’s document + biometric verification is built into their primary product offering. They take doc + bio verification a step further than any of the other companies with a "remote in-person” identity proofing interview: a video call in which an applicant must present their documents live. This happens only for the set of people who cannot be verified at other steps in their process. \(You can also get their document verification and/or doc + bio verification products individually, but we don’t have information about the pricing.\)
+
+> Note:
+>
+> * ID.me is planning on adding 500 in-person identity proofing "outposts" [beginning in June '21](https://www.usatoday.com/story/tech/news/2021/05/02/unemployment-benefits-system-leaving-people-behind/4915248001/)
+> * Idemia's [IdentGO product](https://www.idemia.com/identogo) could also be used by states looking to outsource physical/in-person identity proofing
 
 IDology, and Socure have their own stand-alone document verification products that could be used as the “step up” from a different vendor’s synthetic identity detection. Alloy and Experian could likely provide just a document verification service, but it may not be the most efficient way to do so: Both use Acuant to provide document verification. 
 

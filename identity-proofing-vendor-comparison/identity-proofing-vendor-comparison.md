@@ -1,7 +1,7 @@
 ---
 description: >-
   Prepared by Unemployment Insurance Modernization team at US Digital response.
-  Last updated: Feb. 8, 2021
+  Last updated: May 4, 2021
 ---
 
 # Identity proofing introduction
