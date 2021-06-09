@@ -1,3 +1,7 @@
+---
+description: Originally compiled by Alyssa Levitz with help from Waldo Jaquith
+---
+
 # Tracking implemented solutions
 
 Many of the problems facing Unemployment Insurance agencies today are not unique. Each entity might have a different name, provide different benefit amounts, and require different things from its constituents to access those benefits -- but they can still learn a lot from each other's solutions.
@@ -6,7 +10,7 @@ US Digital Response's Unemployment Insurance team works with specific UI agencie
 
 We are also tracking the changes that UI agencies are making on their own or with the help of other organizations. We track these changes based on publicly available information \(e.g., press releases, news articles, and website inspection with standard browser developer tools\). We are sharing this tracking publicly in the hopes that everyone can benefit from knowing what others are doing. 
 
-If you see something that is out of date, [please reach out](mailto:ui-team@usdigitalresponse.org). We have also conducted deep dives on some of these topics:
+We have also conducted deep dives on some of these topics:
 
 {% page-ref page="../additional-deep-dives/customer-support-mechanisms-for-ui-agencies/online-appointment-scheduling/" %}
 

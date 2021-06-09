@@ -1,7 +1,8 @@
 # Methods & Acknowledgements
 
-This report combines research from many different sources, which are summarized below. We are indebted to the research that has come before us and are deeply grateful to those who have spent time speaking openly with us and given us the opportunity to support them.   
+This report combines research from many different sources, which are summarized below. It was compiled by Alyssa Levitz, Waldo Jaquith, and USDR but the underlying work was also done with the help of multiple volunteers and civil servants who can’t be publicly listed, but deserve credit for their work all the same.
 
+We are indebted to the research that has come before us and are deeply grateful to those who have spent time speaking openly with us and given us the opportunity to support them. 
 
 * USDR partnerships on 16 projects with 10 states, including:
   * [Consulting on PUA implementations](https://medium.com/u-s-digital-response/technical-notes-from-the-field-pandemic-unemployment-assistance-db5421134969)

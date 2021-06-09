@@ -6,8 +6,6 @@ For each of the evaluated vendors, we have done our best to provide accurate inf
 
 {% page-ref page="../appendix-ii-vendor-evaluation-of-supplemental-considerations.md" %}
 
-_If you are a representative of an identity proofing or fraud detection company and are not included in our list, or believe we have mischaracterized your product\(s\) or left out key information, please reach out to_ [_ui-team@usdigitalresponse.org_](mailto:ui-team@usdigitalresponse.org) _so we can follow up for inclusion and/or clarification as appropriate._
-
 ### Vendor overview
 
 #### Vendors Evaluated
@@ -143,17 +141,6 @@ _If you are a representative of an identity proofing or fraud detection company 
     </tr>
   </tbody>
 </table>
-
-#### Vendors not yet evaluated
-
-As we evaluate these and/or other vendors, their information will be added to this document’s existing charts and commentary:
-
-* Acuant
-* Google Cloud Descriptive Data Analytics
-* ID Analytics \(subsidiary of Lexis Nexis\)
-* LexisNexis Risk Solutions: LexID Digital
-* NASWA Integrity Data Hub
-* TransUnion’s IDVision with Iovation
 
 #### A federal alternative: Login.gov
 

@@ -1,5 +1,5 @@
 ---
-description: 'Updated: Dec. 22, 2020'
+description: 'By Alyssa Levitz. Updated: Dec. 22, 2020'
 ---
 
 # Chatbots

@@ -2,12 +2,10 @@
 description: >-
   A non-comprehensive list of the articles, reports, and publications that have
   been useful in developing our understanding of UI systems in the United
-  States.
+  States. Originally compiled by Alyssa Levitz.
 ---
 
 # What we're reading
-
-_Have something interesting for us to read?_ [_Let us know!_](mailto:ui-team@usdigitalresponse.org)\_\_
 
 ## Human impact of unprepared UI systems
 

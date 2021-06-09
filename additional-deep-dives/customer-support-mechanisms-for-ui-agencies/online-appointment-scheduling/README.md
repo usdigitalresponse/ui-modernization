@@ -1,5 +1,7 @@
 ---
-description: 'Updated: Jan. 25, 2021 to note CT and KY have added this functionality'
+description: >-
+  By Alyssa Levitz. Updated: Jan. 25, 2021 to note CT and KY have added this
+  functionality
 ---
 
 # Online appointment scheduling

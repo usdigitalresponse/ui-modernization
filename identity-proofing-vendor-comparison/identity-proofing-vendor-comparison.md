@@ -1,7 +1,8 @@
 ---
 description: >-
-  Prepared by Unemployment Insurance Modernization team at US Digital response.
-  Last updated: May 4, 2021
+  Prepared by Alyssa Levitz and the Unemployment Insurance Modernization team at
+  US Digital Response, including Waldo Jaquith and Michael Smedberg. Last
+  updated: May 4, 2021
 ---
 
 # Identity proofing introduction
