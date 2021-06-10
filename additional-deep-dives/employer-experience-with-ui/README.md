@@ -1,10 +1,13 @@
 ---
 description: >-
-  What workforce agencies should know to make smart investments in digitizing
-  employers’ experiences. Compiled by Alyssa Levitz
+  How workforce agencies can make smart investments in digitizing employers’
+  experiences. Policy Memo from USDR, compiled by Alyssa Levitz based on
+  research with Alissa Rubin and Emily Alter, June 2021
 ---
 
 # Employer Interactions with Unemployment Insurance Systems
+
+{% file src="../../.gitbook/assets/unemployment-insurance-employer-experience-\_-policy-memo.pdf" caption="Policy Memo Download" %}
 
 ### Summary
 
