@@ -25,6 +25,8 @@ description: >-
   * Within the "The Role of Unemployment Insurance" section, they do the important work of sharing some of the ways in which systemic racism impacts both UI systems and the underlying unemployment that make the systems so critical. This is a fundamental piece of their argument for the inclusion of the affected populations in making major changes to the UI systems.
 * [From Disrepair to Transformation: How to Revive UI IT and Infrastructure](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/), Congressional Testimony from Rebecca Nixon, Executive Director, NELP
 
+* **2020-06-08 NASWA, Upjohn Institute for Employment Research Study:** [Implementation of the American Recovery and Reinvestment Act: Workforce Development and Unemployment Insurance Provisions](https://www.naswa.org/covid-19/reemployment-recovery/implementation-of-the-american-recovery-and-reinvestment-act). (Also see: [report pdf](http://research.upjohn.org/cgi/viewcontent.cgi?filename=7&article=1241&context=up_press&type=additional)).
+  * This report contains key lessons learned from the implementation of the American Recovery and Reinvestment Act (ARRA) enacted in 2009.
 
 
 ### Specific technology areas
