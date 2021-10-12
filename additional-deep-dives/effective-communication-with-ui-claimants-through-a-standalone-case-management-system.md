@@ -10,7 +10,7 @@ U.S. Digital Response’s (USDR) unemployment insurance (UI) team has partnered 
 
 **Impact Summary**
 
-Previously, the State UI System was not meeting US Department Of Labor (DOL) requirements for quick resolution of claimant issues because they were fully reliant on fact-finding via phone calls scheduled weeks into the future. The State implemented a new system, switching to an online fact-finding interview , resulting in a response from claimants within one day for 50% of issues, instead of weeks for each individual concern. Additionally, examiners nearly doubled the number of cases they were able to process in a day.
+This State UI System was slowly resolving claimant issues because they were fully reliant on fact-finding via phone calls scheduled weeks into the future. The State implemented a new system, switching to an online fact-finding interview, resulting in a response from claimants within one day for 50% of issues, instead of weeks for each individual concern. In moving to an adaptable new system, examiners nearly doubled the number of cases they were able to process in a day.
 
 **Problem Statement**
 
