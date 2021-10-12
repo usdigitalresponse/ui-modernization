@@ -7,7 +7,9 @@ description: >-
 
 # Employer Interactions with Unemployment Insurance Systems
 
-{% file src="../../.gitbook/assets/unemployment-insurance-employer-experience-\_-policy-memo.pdf" caption="Policy Memo Download" %}
+{% file src="../../.gitbook/assets/Unemployment Insurance Employer Experience _ Policy Memo.pdf" %}
+Policy Memo Download
+{% endfile %}
 
 ### Summary
 
@@ -27,7 +29,7 @@ The sample was national, with participants based in 10 states: California, Georg
 
 * Paper mail-based systems broke down when people were no longer regularly in the office
 * Delays occur in benefit disbursal when the claimant files for UI under a different name than the employer has on record, which happens much more frequently for people with non-English name patterns.
-* HR employees who worked at companies with a presence in multiple states either had to use a Third Party Administrator \(like ADP or Equifax\) or build their own internal processes to manage claims across the disparate systems. 
+* HR employees who worked at companies with a presence in multiple states either had to use a Third Party Administrator (like ADP or Equifax) or build their own internal processes to manage claims across the disparate systems. 
 * Even in states where the workforce agency made online claim management possible, employers still encountered challenges in keeping up with new claims and providing the necessary information to respond to a claim.
 * There is no one way that employers think about their employees receiving UI benefits; some see it as a key part of their business model and thus do their best to help their former employees receive benefits, and on the other end of the spectrum, some employers have an institutionalized antagonistic relationship with former employees over receipt of UI.
 * Employers dispute initial claims, in particular surrounding reasons for “job separations,” but rarely dispute decisions
@@ -42,14 +44,13 @@ The sample was national, with participants based in 10 states: California, Georg
   * Let portal users change or update their previously submitted answers to questions when they learn new information.
 * Increase transparency between employer and claimant so that simpler issues could be resolved more quickly
 * Have accessible, prompt, and employer-specific customer service options, for example: 
-  * Dedicated phone lines with staff knowledgeable about the employer experience, that do not solve claimant issues or even redirect claimants to the correct line \(while extreme, some states have found this useful in keeping the phone line as clear as possible\)
+  * Dedicated phone lines with staff knowledgeable about the employer experience, that do not solve claimant issues or even redirect claimants to the correct line (while extreme, some states have found this useful in keeping the phone line as clear as possible)
   * Creating FAQ and other online support content for employers to self-solve their issues
 * [Audit and fix UI systems’ English biases in name-matching](https://usdr.gitbook.io/unemployment-insurance-modernization/identity-proofing-vendor-comparison/race-and-inequity-in-identity-proofing-methods/recommendation-1-find-and-mitigate-inequitable-impact-of-identity-fraud-detection-flags#recommendation-1-2-audit-and-fix-systems-english-bias-in-name-matching)
 
 ### Further reading
 
-To see more detail on the findings and key recommendations, read the two research reports: [Landscape of the Employer Experience](https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews) \(Jan. 2021\) and [Employer Experience: Digital Interactions](https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews) \(March 2021\).
+To see more detail on the findings and key recommendations, read the two research reports: [Landscape of the Employer Experience](https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/employer-experience-with-ui/landscape-of-the-employer-experience-user-interviews) (Jan. 2021) and [Employer Experience: Digital Interactions](https://usdr.gitbook.io/unemployment-insurance-modernization/additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews) (March 2021).
 
-  
+\
 To see more about the way the current system of interacting with employers affects workforce agency processes staff, see the [Employer Interaction section of the UI Journey Map](https://usdr.gitbook.io/unemployment-insurance-modernization/ui-journey-map/the-agency-journey/interacting-with-employers).
-

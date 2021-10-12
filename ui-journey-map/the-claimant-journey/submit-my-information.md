@@ -1,14 +1,14 @@
 # Submit my information
 
-![](../../.gitbook/assets/screen-shot-2021-02-28-at-1.57.41-pm.png)
+![](<../../.gitbook/assets/Screen Shot 2021-02-28 at 1.57.41 PM.png>)
 
-## Challenge \#1: Current user experience is confusing
+## Challenge #1: Current user experience is confusing
 
 Current UI systems are not designed to simplify the claimant’s experience. Application questions are complex and difficult to understand. People are nervous and worry that clicking the wrong option will result in losing their benefits by mistake. They don’t always provide the correct information; claimants  might send over too much information, which can confound and complicate decision making, or not enough information, which lengthens the process. Online applications are not always mobile-optimized and frequently aren’t translated into the languages needed for the state’s population.
 
 ### Recommendations
 
-1. Agencies should use [plain language](https://www.plainlanguage.gov/) in the tools to help claimants better understand what is expected of them. US DOL should provide plain language guidance for common scenarios that States can use.
+1. Agencies should use [plain language](https://www.plainlanguage.gov) in the tools to help claimants better understand what is expected of them. US DOL should provide plain language guidance for common scenarios that States can use.
 2. Agencies should explain the outcome of actions that the claimant takes or of answers they provide. 
 3. When additional information is needed, agencies should be very clear about what that information is and why it is needed. Uploading attachments should be available to claimants in the context of a targeted request for information from the agency, or as part of an issue creation/appeals workflow that the claimant initiates.
 4. From “[Centering Workers - How to Modernize Unemployment Insurance Technology](https://tcf.org/content/report/centering-workers-how-to-modernize-unemployment-insurance-technology/)”, agencies should update their applications according to the following: 
@@ -25,7 +25,7 @@ Current UI systems are not designed to simplify the claimant’s experience. App
    11. Translate the application and other online materials into Spanish and other commonly spoken languages. 
    12. Minimize the paperwork burdens associated with work search.
 
-## Challenge \#2: Websites can’t handle the traffic volume 
+## Challenge #2: Websites can’t handle the traffic volume 
 
 Some systems were not built for increased web traffic load. This has resulted in some states trying to limit what days or times individuals can apply or do their weekly certification in order to balance web traffic load. 
 
@@ -33,7 +33,7 @@ Some systems were not built for increased web traffic load. This has resulted in
 
 1. Agencies should pt in place scaling plans and determine what will change in the system when there are large spikes in traffic. Take into account DDOS attacks as well as bot traffic. 
 
-## Challenge \#3: Websites aren’t designed for the people who need it 
+## Challenge #3: Websites aren’t designed for the people who need it 
 
 Not everyone has access or sufficient digital skills to use the website.
 
@@ -48,7 +48,7 @@ Not everyone has access or sufficient digital skills to use the website.
 3. When possible to do safely, agencies should consider in-person “pop up” offices in targeted locations can help provide assistance. Think through the time commitment and resource constraints before setting expectations with the public.  
 4. Agency websites should eable claimants to schedule phone callback appointments to preemptively avoid long hold times.
 
-## Challenge \#4: Unclear expectations about next steps
+## Challenge #4: Unclear expectations about next steps
 
 Unlike most of the online interactions people have, UI systems frequently aren’t able to tell you right away what the status of your application is. If an issue is detected, or the application needs to be processed by the mainframe in a batch overnight, a claimant is left wondering what’s going on. When the system doesn’t tell them what is going to happen next or on what time frame, then claimants have undue anxiety and confusion, as well as calls to the help center.
 
@@ -59,6 +59,5 @@ Unlike most of the online interactions people have, UI systems frequently aren�
 
 ### Recommendations: 
 
-1. Where possible, agency sites should seamlessly transition users in between processes. \(E.g., if someone’s application is flagged immediately upon submission because more information is needed about their self-employment, go directly from that submission to a form/questionnaire.\) 
+1. Where possible, agency sites should seamlessly transition users in between processes. (E.g., if someone’s application is flagged immediately upon submission because more information is needed about their self-employment, go directly from that submission to a form/questionnaire.) 
 2. When information is submitted, agencies should let claimants know what will happen next and when they should expect to hear back.
-

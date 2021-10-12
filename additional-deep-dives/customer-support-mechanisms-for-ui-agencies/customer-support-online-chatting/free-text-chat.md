@@ -12,7 +12,6 @@
   * Microsoft
   * Zendesk
 
-![Left to right: screenshots of free-text chat from Ohio, Georgia, and California.](../../../.gitbook/assets/screen-shot-2020-12-22-at-8.38.27-am.png)
+![Left to right: screenshots of free-text chat from Ohio, Georgia, and California.](<../../../.gitbook/assets/Screen Shot 2020-12-22 at 8.38.27 AM.png>)
 
-### 
-
+###

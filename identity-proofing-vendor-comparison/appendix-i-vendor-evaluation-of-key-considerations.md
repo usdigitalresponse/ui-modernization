@@ -8,204 +8,30 @@ For some of the vendors, the answer is “unknown,” and we continue working to
 
 ## Part 1
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">Pricing</th>
-      <th style="text-align:left">UX at account creation</th>
-      <th style="text-align:left">Backlog management</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Alloy</td>
-      <td style="text-align:left">Unknown</td>
-      <td style="text-align:left">
-        <p>Step-up process:</p>
-        <p>- API for PII collection</p>
-        <p>- UX for doc verification</p>
-      </td>
-      <td style="text-align:left">
-        <p>- Has batch API to check PII</p>
-        <p>- UX for doc verification</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Cognito</td>
-      <td style="text-align:left">$0.70 - $0.99 / verification</td>
-      <td style="text-align:left">API for PII collection</td>
-      <td style="text-align:left">Has batch API available but won&#x2019;t be able to verify phone number</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ekata</td>
-      <td style="text-align:left">$0.10 - $0.25 / query</td>
-      <td style="text-align:left">API for PII collection</td>
-      <td style="text-align:left">No batch API to check PII</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Experian</td>
-      <td style="text-align:left">$0.10 - $0.25 / query, plus $2,500 or $6,500 set-up fee based on implementation
-        detail</td>
-      <td style="text-align:left">
-        <p>Step-up process:</p>
-        <p>- API for PII collection</p>
-        <p>- UX for doc verification</p>
-        <p>- UX for UI agents to input info provided via phone</p>
-      </td>
-      <td style="text-align:left">
-        <p>- Has batch API to check PII</p>
-        <p>- UX for doc verification</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ID.me</td>
-      <td style="text-align:left">$4.00 / verification; $2.00 for subsequent years&#x2019; renewal</td>
-      <td
-      style="text-align:left">- Complete UX for PII collection and doc verification</td>
-        <td style="text-align:left">- UX for PII collection and doc verification</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Idemia</td>
-      <td style="text-align:left">$2.50 to $5.50 / verification</td>
-      <td style="text-align:left">
-        <p>Step-up process:</p>
-        <p>- API for PII collection</p>
-        <p>- UX for doc verification</p>
-      </td>
-      <td style="text-align:left">
-        <p>- Has batch API to check PII</p>
-        <p>- UX for doc verification</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">IDology</td>
-      <td style="text-align:left">Unknown</td>
-      <td style="text-align:left">
-        <p>Step-up process:</p>
-        <p>- API for PII collection</p>
-        <p>- UX for doc verification</p>
-      </td>
-      <td style="text-align:left">
-        <p>- API for PII collection</p>
-        <p>- UX for doc verification</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SentiLink</td>
-      <td style="text-align:left">~$0.25 / verification</td>
-      <td style="text-align:left">API for PII collection</td>
-      <td style="text-align:left">Has batch API to check PII</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Socure</td>
-      <td style="text-align:left">Mid-to-high single digit cents / PII query; add&#x2019;l $1/query for
-        doc verification</td>
-      <td style="text-align:left">
-        <p>Step-up process:</p>
-        <p>- API for PII collection</p>
-        <p>- UX for doc verification</p>
-      </td>
-      <td style="text-align:left">
-        <p>- API for PII collection</p>
-        <p>- UX for doc verification</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|           | Pricing                                                                                | UX at account creation                                                                                                                           | Backlog management                                                  |
+| --------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| Alloy     | Unknown                                                                                | <p>Step-up process:</p><p>- API for PII collection</p><p>- UX for doc verification</p>                                                           | <p>- Has batch API to check PII</p><p>- UX for doc verification</p> |
+| Cognito   | $0.70 - $0.99 / verification                                                           | API for PII collection                                                                                                                           | Has batch API available but won’t be able to verify phone number    |
+| Ekata     | $0.10 - $0.25 / query                                                                  | API for PII collection                                                                                                                           | No batch API to check PII                                           |
+| Experian  | $0.10 - $0.25 / query, plus $2,500 or $6,500 set-up fee based on implementation detail | <p>Step-up process:</p><p>- API for PII collection</p><p>- UX for doc verification</p><p>- UX for UI agents to input info provided via phone</p> | <p>- Has batch API to check PII</p><p>- UX for doc verification</p> |
+| ID.me     | $4.00 / verification; $2.00 for subsequent years’ renewal                              | - Complete UX for PII collection and doc verification                                                                                            | - UX for PII collection and doc verification                        |
+| Idemia    | $2.50 to $5.50 / verification                                                          | <p>Step-up process:</p><p>- API for PII collection</p><p>- UX for doc verification</p>                                                           | <p>- Has batch API to check PII</p><p>- UX for doc verification</p> |
+| IDology   | Unknown                                                                                | <p>Step-up process:</p><p>- API for PII collection</p><p>- UX for doc verification</p>                                                           | <p>- API for PII collection</p><p>- UX for doc verification</p>     |
+| SentiLink | \~$0.25 / verification                                                                 | API for PII collection                                                                                                                           | Has batch API to check PII                                          |
+| Socure    | Mid-to-high single digit cents / PII query; add’l $1/query for doc verification        | <p>Step-up process:</p><p>- API for PII collection</p><p>- UX for doc verification</p>                                                           | <p>- API for PII collection</p><p>- UX for doc verification</p>     |
 
 ## Part 2
 
 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">Identity proofing methods (and product names, if applicable)</th>
-      <th style="text-align:left">Data sources</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Alloy</td>
-      <td style="text-align:left">Highly configurable: KBV, 2FA, synthetic identity detection (including
-        looking at device &#x201C;fingerprinting&#x201D; and IP address), document
-        verification, biometric verification</td>
-      <td style="text-align:left">Partnerships with 65+ data vendors including ones we have or will evaluate:
-        Acuant, Iovation from TransUnion, Ekata, Socure, Cognito, Sentilink, and
-        IDology</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Cognito</td>
-      <td style="text-align:left">
-        <p>- Cognito Identity Verification Service: 2FA, synthetic identity detection</p>
-        <p>- Blocksore product: 2FA, synthetic identity detection, KBV
-          <br />
-        </p>
-      </td>
-      <td style="text-align:left">Credit bureaus and public data sources</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ekata</td>
-      <td style="text-align:left">Synthetic Identity Detection</td>
-      <td style="text-align:left">Public data sources -- does NOT check SSN</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Experian</td>
-      <td style="text-align:left">
-        <p>Experian PreciseID: Synthetic Identity detection, KBV, 2FA</p>
-        <p>Experian Identity Proofing: Document verification, biometric verification</p>
-      </td>
-      <td style="text-align:left">Credit file info; SSA Death Master File; marketing data; Motor vehicle
-        info from auto dealerships and DMVs; public data sources</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ID.me</td>
-      <td style="text-align:left">Synthetic identity detection, document verification, biometric verification</td>
-      <td
-      style="text-align:left">Credit bureaus, SSA Death Master File, telco records, public data sources</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Idemia</td>
-      <td style="text-align:left">Idemia Proof: Synthetic identity detection, document verification, biometric
-        verification</td>
-      <td style="text-align:left">Credit file info; DMV database; &quot;Systems of record&quot;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">IDology</td>
-      <td style="text-align:left">
-        <p>ExpectID: Synthetic identity detection</p>
-        <p>ExpectID IQ: KBV, synthetic identity detection</p>
-        <p>Document Scan Solution: both document verification and biometric verification</p>
-      </td>
-      <td style="text-align:left">
-        <p>Motor vehicle info, voting record, creditor information, utility bills
-          <br
-          />
-        </p>
-        <p>Have &#x201C;Consortium Fraud Network&#x201D; for additional commercial
-          sources</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SentiLink</td>
-      <td style="text-align:left">Synthetic identity detection</td>
-      <td style="text-align:left">Credit bureaus, utility data, SSA Death Master File, selective service
-        information</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Socure</td>
-      <td style="text-align:left">
-        <p>KYC identity verification module &amp; Sigma Fraud products: synthetic
-          identity detection</p>
-        <p>DocV product: both document verification and biometric verification
-          <br
-          />
-        </p>
-      </td>
-      <td style="text-align:left">Credit bureaus, utility data, telco, public data sources</td>
-    </tr>
-  </tbody>
-</table>
-
+|           | Identity proofing methods (and product names, if applicable)                                                                                                                           | Data sources                                                                                                                                                 |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alloy     | Highly configurable: KBV, 2FA, synthetic identity detection (including looking at device “fingerprinting” and IP address), document verification, biometric verification               | Partnerships with 65+ data vendors including ones we have or will evaluate: Acuant, Iovation from TransUnion, Ekata, Socure, Cognito, Sentilink, and IDology |
+| Cognito   | <p>- Cognito Identity Verification Service: 2FA, synthetic identity detection</p><p>- Blocksore product: 2FA, synthetic identity detection, KBV<br></p>                                | Credit bureaus and public data sources                                                                                                                       |
+| Ekata     | Synthetic Identity Detection                                                                                                                                                           | Public data sources -- does NOT check SSN                                                                                                                    |
+| Experian  | <p>Experian PreciseID: Synthetic Identity detection, KBV, 2FA</p><p>Experian Identity Proofing: Document verification, biometric verification</p>                                      | Credit file info; SSA Death Master File; marketing data; Motor vehicle info from auto dealerships and DMVs; public data sources                              |
+| ID.me     | Synthetic identity detection, document verification, biometric verification                                                                                                            | Credit bureaus, SSA Death Master File, telco records, public data sources                                                                                    |
+| Idemia    | Idemia Proof: Synthetic identity detection, document verification, biometric verification                                                                                              | Credit file info; DMV database; "Systems of record"                                                                                                          |
+| IDology   | <p>ExpectID: Synthetic identity detection</p><p>ExpectID IQ: KBV, synthetic identity detection</p><p>Document Scan Solution: both document verification and biometric verification</p> | <p>Motor vehicle info, voting record, creditor information, utility bills<br></p><p>Have “Consortium Fraud Network” for additional commercial sources</p>    |
+| SentiLink | Synthetic identity detection                                                                                                                                                           | Credit bureaus, utility data, SSA Death Master File, selective service information                                                                           |
+| Socure    | <p>KYC identity verification module &#x26; Sigma Fraud products: synthetic identity detection</p><p>DocV product: both document verification and biometric verification<br></p>        | Credit bureaus, utility data, telco, public data sources                                                                                                     |

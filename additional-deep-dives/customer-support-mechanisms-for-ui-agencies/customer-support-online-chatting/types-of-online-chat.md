@@ -4,7 +4,7 @@ As it relates to UI agencies, online chat implementations fall into one of four 
 
 Links to how you can access each state's chat system, along with any notes like what vendor they used, can be found on the page where we're tracking solutions across many states:
 
-{% page-ref page="../../../what-were-reading/tracking-implemented-solutions.md" %}
-
-
+{% content-ref url="../../../what-were-reading/tracking-implemented-solutions.md" %}
+[tracking-implemented-solutions.md](../../../what-were-reading/tracking-implemented-solutions.md)
+{% endcontent-ref %}
 

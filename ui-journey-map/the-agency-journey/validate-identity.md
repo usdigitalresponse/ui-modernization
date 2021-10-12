@@ -12,18 +12,18 @@ Unemployment insurance agencies operate under a “threat model” for improper 
 
 ### Recommendation: 
 
-1. Agencies should ensure their threat model is up-to-date:  what kind of fraud or theft will your system be susceptible to? \(Identity theft to steal others’ benefits, or “benefit theft” to try to get more than you are otherwise eligible for\) Agency identity proofing systems shouldn’t rely on Knowledge Based Verification. Look to have a NIST Identity Assurance Level 2 system. To learn more, see USDR’s [Identity Proofing for UI Agencies](https://usdr.gitbook.io/unemployment-insurance-modernization/identity-proofing-vendor-comparison/identity-proofing-vendor-comparison) report
+1. Agencies should ensure their threat model is up-to-date:  what kind of fraud or theft will your system be susceptible to? (Identity theft to steal others’ benefits, or “benefit theft” to try to get more than you are otherwise eligible for) Agency identity proofing systems shouldn’t rely on Knowledge Based Verification. Look to have a NIST Identity Assurance Level 2 system. To learn more, see USDR’s [Identity Proofing for UI Agencies](https://usdr.gitbook.io/unemployment-insurance-modernization/identity-proofing-vendor-comparison/identity-proofing-vendor-comparison) report
 
 ## Challenge 2: Many common identity theft detection practices result in racially inequitable outcomes.
 
 In UI systems, there is a balance between finding fraud and getting benefits out in a timely manner. Right now, a lot of fraud is slipping through and benefits are severely delayed. As we work to shift this balance, we need to ensure that we reduce -- not broaden -- racial inequities in UI.
 
-“By focusing on overpayments, the \[US DOL\] is not held accountable for determining other errors created by the state, or even an employer, when it comes to UI payments—such as underpayments—which are also payment inaccuracies. The \[accuracy\] map also doesn’t reflect cases in which eligible UI applicants are erroneously denied benefits.” --[Unpacking Inequities in Unemployment Insurance](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui)
+“By focusing on overpayments, the \[US DOL] is not held accountable for determining other errors created by the state, or even an employer, when it comes to UI payments—such as underpayments—which are also payment inaccuracies. The \[accuracy] map also doesn’t reflect cases in which eligible UI applicants are erroneously denied benefits.” --[Unpacking Inequities in Unemployment Insurance](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/a-focus-on-fraud-over-accessibility-the-punitive-design-of-ui)
 
 ### What our partners are saying
 
 * “ID verification, the tools we use have the biggest weight against, have the heaviest burden on, low income people. If the tool is a driver’s license, how much more difficult that becomes for low income people." --State B
-* "\[We have\] no way to break down fraud vs. not having a driver’s license. We’ve seen an uptick in phone filing because of this.”  -- State B
+* "\[We have] no way to break down fraud vs. not having a driver’s license. We’ve seen an uptick in phone filing because of this.”  -- State B
 * "These systems, the larger populations get prioritized because you get the biggest result but it’s not the right way to think about things. We are trying to shift and think about smaller populations but more difficult time getting served and get them served with priority "" -- State F
 
 ### Recommendations
@@ -41,11 +41,11 @@ In UI systems, there is a balance between finding fraud and getting benefits out
 
 ### Recommendation
 
-1. Agencies: when the threat model indicates high likelihood of identity theft as a means to obtain benefits, plan ahead for how the rightful claimant can come in after the criminal and actually receive their benefits without significant delay \(even if the stolen benefits haven’t been recouped from the criminal\).
+1. Agencies: when the threat model indicates high likelihood of identity theft as a means to obtain benefits, plan ahead for how the rightful claimant can come in after the criminal and actually receive their benefits without significant delay (even if the stolen benefits haven’t been recouped from the criminal).
 
 ## Challenge 4: Every state is implementing updated identity proofing procedures on their own
 
-Additionally, the states acting independently leaves the slower-acting states vulnerable: As states tighten their fraud detection efforts, criminals move to other parts of the system \(State A vs. State B, standard UI rather than PUA, or hacking into accounts to change bank info rather than submitting new applications\)
+Additionally, the states acting independently leaves the slower-acting states vulnerable: As states tighten their fraud detection efforts, criminals move to other parts of the system (State A vs. State B, standard UI rather than PUA, or hacking into accounts to change bank info rather than submitting new applications)
 
 ### What our partners are saying
 
@@ -56,8 +56,7 @@ Additionally, the states acting independently leaves the slower-acting states vu
 ### Recommendations
 
 1. Legislature: The Social Security administration should be given resources and a mandate to make its online, live, SSN validation service available to state agencies both directly and through Login.gov.
-2. US DOL: should set up a “fusion center” to set up and facilitate an ongoing information exchange, so States can learn from each other about what fraud tactics are being used and how to combat them. As part of the project, define the process \(and technologies\) that people will use to report identity theft, and that the agency will use to act on that information \(including law enforcement involvement\)
+2. US DOL: should set up a “fusion center” to set up and facilitate an ongoing information exchange, so States can learn from each other about what fraud tactics are being used and how to combat them. As part of the project, define the process (and technologies) that people will use to report identity theft, and that the agency will use to act on that information (including law enforcement involvement)
 3. US DOL in partnership with other federal agencies: US DOL should secure the use of the CMS Data Hub to provide a shared eligibility determination service, and as an additional data source for identity validation. This makes the process much more efficient for many who won’t have to manually re-enter information for every new program; however, you’ll have to at the same time ensure that those who aren’t in the partner program still have a pathway to apply. [The Missouri Benefits Enrollment Transformation report](https://dss.mo.gov/docs/civilla-missouri-research-report.pdf) has many transferrable recommendations, pp 28-29 in particular.
 4. Federal GSA in partnership with US DOL: DOL should pay for Login.gov use for any states that wish to use it, and provide incentives for states to do so
-5. State agencies and US DOL: Programs administered by other agencies may have already done the identity validation you need, or could use the ID proofing that you do. Existing auth systems \(e.g., with SNAP or Medicaid\)\) should be leveraged.
-
+5. State agencies and US DOL: Programs administered by other agencies may have already done the identity validation you need, or could use the ID proofing that you do. Existing auth systems (e.g., with SNAP or Medicaid)) should be leveraged.

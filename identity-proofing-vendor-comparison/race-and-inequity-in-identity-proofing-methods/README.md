@@ -10,4 +10,3 @@ The vast fraud committed through the use of stolen and synthetic identities in U
 
 1. Finding and mitigating the ways in which their identity fraud detection flags will disproportionately affect POC
 2. Increasing accountability for ensuring rightful claimants make it through the system
-

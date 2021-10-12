@@ -4,7 +4,7 @@
 * [What we're reading](what-were-reading/README.md)
   * [Tracking implemented solutions](what-were-reading/tracking-implemented-solutions.md)
 
-## Identity proofing for UI agencies <a id="identity-proofing-vendor-comparison"></a>
+## Identity proofing for UI agencies <a href="identity-proofing-vendor-comparison" id="identity-proofing-vendor-comparison"></a>
 
 * [Identity proofing introduction](identity-proofing-vendor-comparison/identity-proofing-vendor-comparison.md)
 * [Race and inequity in identity proofing methods](identity-proofing-vendor-comparison/race-and-inequity-in-identity-proofing-methods/README.md)
@@ -32,6 +32,7 @@
 
 ## Additional Deep Dives
 
+* [E-Adjudication Case Study](additional-deep-dives/e-adjudication-case-study.md)
 * [Customer support mechanisms for UI agencies](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/README.md)
   * [Improved UX reduces inequity](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/improved-ux-reduces-inequity.md)
   * [Online appointment scheduling](additional-deep-dives/customer-support-mechanisms-for-ui-agencies/online-appointment-scheduling/README.md)
@@ -59,7 +60,7 @@
     * [Methodology & Note on Language](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews/methodology-and-note-on-language.md)
     * [Key Takeaways](additional-deep-dives/employer-experience-with-ui/opportunities-of-the-digital-ui-agency-employer-interactions-user-interviews/key-takeaways.md)
 
-## UI Journey Map & Recommendations <a id="ui-journey-map"></a>
+## UI Journey Map & Recommendations <a href="ui-journey-map" id="ui-journey-map"></a>
 
 * [Introduction](ui-journey-map/introduction/README.md)
   * [The Journey Map](ui-journey-map/introduction/the-journey-map.md)
@@ -79,4 +80,3 @@
   * [Update systems for new programs](ui-journey-map/the-agency-journey/update-systems-for-new-programs.md)
   * [Relationship with US DOL](ui-journey-map/the-agency-journey/relationship-with-us-dol.md)
 * [The Employer Journey](ui-journey-map/the-employer-journey.md)
-

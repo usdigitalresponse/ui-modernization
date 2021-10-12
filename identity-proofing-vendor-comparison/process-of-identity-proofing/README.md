@@ -6,13 +6,11 @@
 
 Identity proofing in its most technical sense is defined by NIST, which additionally provides an Identity Assurance Level framework and certification. The IAL requirements indicate a particular level of certainty about an identity’s validity; the techniques typically associated with each stage of identity proofing are:
 
-* [Identity resolution](identity-resolution.md): comparing personally identifiable information \(PII\) provided by the user to public databases.
+* [Identity resolution](identity-resolution.md): comparing personally identifiable information (PII) provided by the user to public databases.
 * [Identity validation](identity-validation.md): confirming that the claimant is the same person as the owner of the user account.
 * [Identify verification](identity-verification.md): establishing a physical connection between the applicant and the PII or evidence provided.
 
 
 
-#### 
-
-
+####
 

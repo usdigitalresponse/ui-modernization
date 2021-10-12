@@ -10,8 +10,8 @@ description: >-
 ## Human impact of unprepared UI systems
 
 * "Pandemic Unemployment and the Social Safety Net" funded by New America:
-  * ["Barriers and pain points of applying and getting assistance"](https://danachisnell.com/wp-content/uploads/2020/08/Report_-Barriers-pain-points.pdf) by Lindsey Wagner & Dana Chisnell
-  * ["Time spent applying and waiting for benefits"](https://danachisnell.com/wp-content/uploads/2020/08/Report_-Time-spent-applying-and-waiting-for-benefits.pdf) by Gina Kim, Lindsey Wagner, Rebecca Michelson, Grace Cho, & Dana Chisnell
+  * ["Barriers and pain points of applying and getting assistance"](https://danachisnell.com/wp-content/uploads/2020/08/Report\_-Barriers-pain-points.pdf) by Lindsey Wagner & Dana Chisnell
+  * ["Time spent applying and waiting for benefits"](https://danachisnell.com/wp-content/uploads/2020/08/Report\_-Time-spent-applying-and-waiting-for-benefits.pdf) by Gina Kim, Lindsey Wagner, Rebecca Michelson, Grace Cho, & Dana Chisnell
 * ["The Unemployment Pandemic: Addressing America's Job Crisis" ](https://www.nelp.org/publication/unemployment-pandemic-addressing-americas-job-crisis/)by Michele Evermore
 * ["Unpacking Inequities in Unemployment Insurance" ](https://www.newamerica.org/pit/reports/unpacking-inequities-unemployment-insurance/#authors)from New America, by Monée Fields-White, Vivian Graubard, Alberto Rodríguez, Nikki Zeichner, & Cassandra Robertson
 
@@ -24,14 +24,12 @@ description: >-
   * The recommendations they make are even more important to consider as COVID-era volumes underscore the existing limitations of UI systems; the recs are broken down based on stages: Planning, Designing, and Implementing. 
   * Within the "The Role of Unemployment Insurance" section, they do the important work of sharing some of the ways in which systemic racism impacts both UI systems and the underlying unemployment that make the systems so critical. This is a fundamental piece of their argument for the inclusion of the affected populations in making major changes to the UI systems.
 * [From Disrepair to Transformation: How to Revive UI IT and Infrastructure](https://www.nelp.org/publication/from-disrepair-to-transformation-how-to-revive-unemployment-insurance-information-technology-infrastructure/), Congressional Testimony from Rebecca Nixon, Executive Director, NELP
-
-* **2020-06-08 NASWA, Upjohn Institute for Employment Research Study:** [Implementation of the American Recovery and Reinvestment Act: Workforce Development and Unemployment Insurance Provisions](https://www.naswa.org/covid-19/reemployment-recovery/implementation-of-the-american-recovery-and-reinvestment-act). (Also see: [report pdf](http://research.upjohn.org/cgi/viewcontent.cgi?filename=7&article=1241&context=up_press&type=additional)).
+* **2020-06-08 NASWA, Upjohn Institute for Employment Research Study:** [Implementation of the American Recovery and Reinvestment Act: Workforce Development and Unemployment Insurance Provisions](https://www.naswa.org/covid-19/reemployment-recovery/implementation-of-the-american-recovery-and-reinvestment-act). (Also see: [report pdf](http://research.upjohn.org/cgi/viewcontent.cgi?filename=7\&article=1241\&context=up_press\&type=additional)).
   * This report contains key lessons learned from the implementation of the American Recovery and Reinvestment Act (ARRA) enacted in 2009.
-
 
 ### Specific technology areas
 
-* From National Association of State Chief Information Officers \(NASCIO\): [Chat with Us: How States are Using Chatbots to Respond to the Demands of COVID-19](https://www.nascio.org/wp-content/uploads/2020/06/NASCIO_ChatbotsRespondtoCOVID-19.pdf). This report isn't exclusively about unemployment insurance, but it includes information about UI chatbots.
+* From National Association of State Chief Information Officers (NASCIO): [Chat with Us: How States are Using Chatbots to Respond to the Demands of COVID-19](https://www.nascio.org/wp-content/uploads/2020/06/NASCIO_ChatbotsRespondtoCOVID-19.pdf). This report isn't exclusively about unemployment insurance, but it includes information about UI chatbots.
 
 ## Governmental reports
 
@@ -47,7 +45,4 @@ description: >-
     * Deploy a NIST IAL2-compliant identity proofing solution within the application process
     * For a period of time, delay new claims filed and redirect highest skilled staff to focus on processing claims
     * Complete deployment of mobile-friendly document upload solution
-* **2021-01-28 --** [**Nevada DETR Rapid Response Strike Force Report**](https://cms.detr.nv.gov/Content/Media/Strike_Force_Report_2021_FIN.pdf)\*\*\*\*
-
-
-
+* **2021-01-28 --** [**Nevada DETR Rapid Response Strike Force Report**](https://cms.detr.nv.gov/Content/Media/Strike_Force_Report\_2021\_FIN.pdf)\*\*\*\*

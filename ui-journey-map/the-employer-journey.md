@@ -4,13 +4,15 @@ description: Coming Soon
 
 # The Employer Journey
 
-![](../.gitbook/assets/screen-shot-2021-04-17-at-12.43.30-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-04-17 at 12.43.30 PM.png>)
 
 ## Also see:
 
-{% page-ref page="the-agency-journey/interacting-with-employers.md" %}
+{% content-ref url="the-agency-journey/interacting-with-employers.md" %}
+[interacting-with-employers.md](the-agency-journey/interacting-with-employers.md)
+{% endcontent-ref %}
 
-{% page-ref page="../additional-deep-dives/employer-experience-with-ui/" %}
-
-
+{% content-ref url="../additional-deep-dives/employer-experience-with-ui/" %}
+[employer-experience-with-ui](../additional-deep-dives/employer-experience-with-ui/)
+{% endcontent-ref %}
 

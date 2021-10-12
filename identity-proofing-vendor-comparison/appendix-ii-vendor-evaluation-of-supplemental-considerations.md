@@ -2,103 +2,20 @@
 
 For more information on each item, please see [Supplemental Considerations](https://usdr.gitbook.io/unemployment-insurance-moderinzation/identity-proofing-vendor-comparison/identity-proofing-vendor-comparison#supplemental-considerations).
 
-Note: as none of the evaluated vendors are under a recognized socioeconomic program or status, that information isn’t duplicated in the chart below. For some of the vendors, the answer is “unknown,” and we continue working to try to find that information.  
+Note: as none of the evaluated vendors are under a recognized socioeconomic program or status, that information isn’t duplicated in the chart below. For some of the vendors, the answer is “unknown,” and we continue working to try to find that information.\
 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">Notable commercial customers</th>
-      <th style="text-align:left">Notable government customers</th>
-      <th style="text-align:left">Relevant certifications</th>
-      <th style="text-align:left">Schedule information</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Alloy</td>
-      <td style="text-align:left">Austin Capital Bank, Langley Federal Credit Union, Radius Bank</td>
-      <td
-      style="text-align:left">Unknown</td>
-        <td style="text-align:left">Unknown</td>
-        <td style="text-align:left">Unknown</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Cognito</td>
-      <td style="text-align:left">Brex, Nextdoor, Coinbase, BBVA</td>
-      <td style="text-align:left">None</td>
-      <td style="text-align:left">SOC2 Type 2 Compliance</td>
-      <td style="text-align:left">No</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Ekata</td>
-      <td style="text-align:left">Lyft, Alaska Airlines</td>
-      <td style="text-align:left">None</td>
-      <td style="text-align:left">SOC2 Type 2 Compliance</td>
-      <td style="text-align:left">No</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Experian</td>
-      <td style="text-align:left">NASWA Integrity Data Hub</td>
-      <td style="text-align:left">Healthcare.gov, IRS, Michigan&apos;s MyLogin, 5-6 state UI agencies</td>
-      <td
-      style="text-align:left">NIST 800-63-3 IAL2 (for their full ID proofing product)</td>
-        <td style="text-align:left">GSA (GS-35F-188AA) &amp; NASPO</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ID.me</td>
-      <td style="text-align:left">LinkedIn, Lenovo</td>
-      <td style="text-align:left"><a href="http://vets.gov/">Vets.gov</a>, 22 state UI agencies</td>
-      <td
-      style="text-align:left">NIST 800-63-3 IAL2/AAL2; in process of FedRamp authorization</td>
-        <td style="text-align:left">Have a growing government business line, but do not promote availability
-          on any found schedule</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Idemia</td>
-      <td style="text-align:left">n/a</td>
-      <td style="text-align:left">TSA, USPS, US Dept. of State, 37 state DMVs, 1 state UI agency (Okla.)</td>
-      <td
-      style="text-align:left">
-        <p>-In process for NIST IAL2</p>
-        <p>-IEC CD 18013-5 Compliance</p>
-        </td>
-        <td style="text-align:left">GSA</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">IDology</td>
-      <td style="text-align:left">Unknown</td>
-      <td style="text-align:left">Unknown</td>
-      <td style="text-align:left">Unknown</td>
-      <td style="text-align:left">Unknown</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SentiLink</td>
-      <td style="text-align:left">Several of the largest banks, credit card issuers, credit unions, and
-        auto lenders</td>
-      <td style="text-align:left">With at least one state&#x2019;s PPP</td>
-      <td style="text-align:left">SOC2 Type 2 Compliance, PCI Compl., EI3PA Compl.</td>
-      <td style="text-align:left">Unknown</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Socure</td>
-      <td style="text-align:left">Seven of the nine largest U.S. banks, six of the top 10 U.S. card issuers,
-        Chime, SoFi</td>
-      <td style="text-align:left">Unknown</td>
-      <td style="text-align:left">
-        <p>-In processes for FedRamp authorization &amp; NIST IAL2</p>
-        <p>-SOC2 Type 2 Compliance
-          <br />- ISO 27001/ 27017/27018</p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Available on AWS Marketplace, so it may be simple to procure via an existing
-        AWS contract</td>
-    </tr>
-  </tbody>
-</table>
-
-
+|           | Notable commercial customers                                                           | Notable government customers                                           | Relevant certifications                                                                                                          | Schedule information                                                                           |
+| --------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Alloy     | Austin Capital Bank, Langley Federal Credit Union, Radius Bank                         | Unknown                                                                | Unknown                                                                                                                          | Unknown                                                                                        |
+| Cognito   | Brex, Nextdoor, Coinbase, BBVA                                                         | None                                                                   | SOC2 Type 2 Compliance                                                                                                           | No                                                                                             |
+| Ekata     | Lyft, Alaska Airlines                                                                  | None                                                                   | SOC2 Type 2 Compliance                                                                                                           | No                                                                                             |
+| Experian  | NASWA Integrity Data Hub                                                               | Healthcare.gov, IRS, Michigan's MyLogin, 5-6 state UI agencies         | NIST 800-63-3 IAL2 (for their full ID proofing product)                                                                          | GSA (GS-35F-188AA) & NASPO                                                                     |
+| ID.me     | LinkedIn, Lenovo                                                                       | [Vets.gov](http://vets.gov), 22 state UI agencies                      | NIST 800-63-3 IAL2/AAL2; in process of FedRamp authorization                                                                     | Have a growing government business line, but do not promote availability on any found schedule |
+| Idemia    | n/a                                                                                    | TSA, USPS, US Dept. of State, 37 state DMVs, 1 state UI agency (Okla.) | <p>-In process for NIST IAL2</p><p>-IEC CD 18013-5 Compliance</p>                                                                | GSA                                                                                            |
+| IDology   | Unknown                                                                                | Unknown                                                                | Unknown                                                                                                                          | Unknown                                                                                        |
+| SentiLink | Several of the largest banks, credit card issuers, credit unions, and auto lenders     | With at least one state’s PPP                                          | SOC2 Type 2 Compliance, PCI Compl., EI3PA Compl.                                                                                 | Unknown                                                                                        |
+| Socure    | Seven of the nine largest U.S. banks, six of the top 10 U.S. card issuers, Chime, SoFi | Unknown                                                                | <p>-In processes for FedRamp authorization &#x26; NIST IAL2</p><p>-SOC2 Type 2 Compliance<br>- ISO 27001/ 27017/27018</p><p></p> | Available on AWS Marketplace, so it may be simple to procure via an existing AWS contract      |
 
 
 

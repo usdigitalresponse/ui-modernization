@@ -23,4 +23,3 @@ This report describes people claiming UI benefits as claimants rather than forme
 * Current employees who went on furlow or had their hours cut, now returned to work but mistakenly or knowingly continue to receive UI benefits;
 * Former contractors not entitled to UI benefits, confused about their benefits; and/or
 * People committing fraud.
-

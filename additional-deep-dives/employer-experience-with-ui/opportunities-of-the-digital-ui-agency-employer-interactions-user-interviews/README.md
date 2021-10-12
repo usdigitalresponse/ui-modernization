@@ -4,5 +4,3 @@ By [Emily Alter](https://www.linkedin.com/in/emilyalter1/),  User Experience Res
 
 Research conducted March - April 2021.
 
-
-

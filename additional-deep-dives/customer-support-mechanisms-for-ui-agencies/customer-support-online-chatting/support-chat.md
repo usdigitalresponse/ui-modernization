@@ -13,7 +13,6 @@
   * ServiceNow
   * Zendesk
 
-![Left to right: Screenshots of support chat from North Carolina, Delaware, and Indiana](../../../.gitbook/assets/screen-shot-2020-12-22-at-8.58.11-am.png)
+![Left to right: Screenshots of support chat from North Carolina, Delaware, and Indiana](<../../../.gitbook/assets/Screen Shot 2020-12-22 at 8.58.11 AM.png>)
 
-## 
-
+##

@@ -1,10 +1,10 @@
 # Receive Payment
 
-![](../../.gitbook/assets/screen-shot-2021-02-28-at-1.58.19-pm.png)
+![](<../../.gitbook/assets/Screen Shot 2021-02-28 at 1.58.19 PM.png>)
 
-## Challenge \#1: Distributing benefits via prepaid debit card doesn’t work for all
+## Challenge #1: Distributing benefits via prepaid debit card doesn’t work for all
 
-Many states limit how funds can be received, including only providing benefits via a prepaid debit card. Prepaid debit cards are targets for both physical and digital fraud, and enable banks to withhold or retract funds that they think were obtained fraudulently \(without being asked by the state to do so\).
+Many states limit how funds can be received, including only providing benefits via a prepaid debit card. Prepaid debit cards are targets for both physical and digital fraud, and enable banks to withhold or retract funds that they think were obtained fraudulently (without being asked by the state to do so).
 
 ### What our partners are saying:
 
@@ -16,7 +16,7 @@ Many states limit how funds can be received, including only providing benefits v
 
 1. Arizona, California, Maryland, Nevada, and Oklahoma should enable direct deposits of UI benefits without having to mail in a voided check or first get a debit card.
 
-## Challenge \#2: Benefits may be stolen if a claimant’s user account is compromised
+## Challenge #2: Benefits may be stolen if a claimant’s user account is compromised
 
 Claimants UI system accounts can be hacked and their bank account info changed so that someone else gets their benefits.
 
@@ -28,4 +28,3 @@ Claimants UI system accounts can be hacked and their bank account info changed s
 ### Recommendation: 
 
 1. Agencies should assume that bank account changes are hostile actions and require authentication beyond simply logging into the account. Be clear with the claimant about what is happening at that time and how to confirm legitimate changes.
-
