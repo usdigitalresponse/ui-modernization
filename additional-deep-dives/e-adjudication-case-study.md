@@ -1,2 +1,0 @@
-# E-Adjudication Case Study
-
